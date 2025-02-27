@@ -65,3 +65,13 @@
 #undef ENABLE_RGB_MATRIX_STARLIGHT_DUAL_HUE
 #undef ENABLE_RGB_MATRIX_STARLIGHT_DUAL_SAT
 #undef ENABLE_RGB_MATRIX_RIVERFLOW
+
+
+
+
+
+#define CHORDAL_HOLD
+
+/* Local Variables: */
+/* apheleia-inhibit: t */
+/* End: */
